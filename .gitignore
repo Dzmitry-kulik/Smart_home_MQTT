@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# STM32 (CubeIDE / Keil)
+**/Debug/
+**/Release/
+**/.settings/
+*.bak
+*.uvguix.*
+
